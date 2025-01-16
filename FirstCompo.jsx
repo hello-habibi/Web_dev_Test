@@ -1,6 +1,5 @@
 function FirstCompo({data}) {
-    console.log(data.strCategory)
-    console.log()
+
 
 
     return (
